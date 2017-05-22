@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a 22-year-old software developer, born and raised in Edinburgh. Currently working as a ReactJS developer at Managed Response Marketing.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm also huge music geek.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[itsmaxatk@gmail.com](mailto:itsmaxatk@gmail.com)
