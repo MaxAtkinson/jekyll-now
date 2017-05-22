@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Budapest 2017
 ---
 
-# Hello world
+### Hello world
 And welcome to my blog
