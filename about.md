@@ -8,7 +8,7 @@ I'm a 22-year-old software developer, born and raised in Edinburgh. Currently wo
 
 ### More Information
 
-I'm also huge music geek.
+I'm also a huge music geek and I've been collecting vinyls from some of my favourite bands, some of which will feature in my blog.
 
 
 ### Contact me
