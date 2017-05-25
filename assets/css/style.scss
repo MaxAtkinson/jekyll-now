@@ -1,9 +1,10 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-.component-title {
-  color: red;
+.component {
   font-weight: bold;
+}
+
+.component-highlight {
+  color: rgb(241, 38, 114);
 }
