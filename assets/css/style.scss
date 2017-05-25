@@ -5,6 +5,9 @@
 
 .component {
   font-weight: bold;
+  &:hover, &:active {
+    color: black;
+  }
 }
 
 .component-highlight {
