@@ -6,7 +6,7 @@
 .component {
   font-weight: bold;
   &:hover, &:active {
-    color: black;
+    color: black !important;
   }
 }
 
