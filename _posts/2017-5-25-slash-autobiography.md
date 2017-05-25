@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slash's Autobiography: A look at one of rock's most iconic guitarists
+title: Slashs Autobiography: A look at one of rocks most iconic guitarists
 categories:
   - books
   - music
