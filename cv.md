@@ -24,10 +24,10 @@ For contact details, click [here](/about).
 
 ## Relevant Experience
 ---
-- ##### Software Developer @ [Managed Response Marketing](mrmbrand.com) (Oct '16 - Present)
-- ##### Research Intern @ [Edinburgh Napier University](napier.ac.uk) (May '16 - Jul '16)
-- ##### Student Demonstrator @ [Edinburgh Napier University](napier.ac.uk) (Sept '15 - May '16)
-- ##### Intern Software Engineer (Data) @ [FanDuel](fanduel.com) (Jul '15 - Sept '15)
+- ##### Software Developer @ [Managed Response Marketing](http://mrmbrand.com) (Oct '16 - Present)
+- ##### Research Intern @ [Edinburgh Napier University](http://napier.ac.uk) (May '16 - Jul '16)
+- ##### Student Demonstrator @ [Edinburgh Napier University](http://napier.ac.uk) (Sept '15 - May '16)
+- ##### Intern Software Engineer (Data) @ [FanDuel](http://fanduel.com) (Jul '15 - Sept '15)
 
 ## Notable Projects
 ---
@@ -43,7 +43,7 @@ Frameworks & libraries used include Bootstrap, jQuery, Google Charts and PHP SLI
 ## Education
 ---
 ### Bachelor's Degree (Sept '12 - May '16)
-BEng (Hons) Computing (First Class) - Edinburgh Napier University
+BEng (Hons) Computing (First Class) - [Edinburgh Napier University](http://napier.ac.uk)
 
 *Received the university medal (for highest average mark) for my course upon graduation.*
 
@@ -64,7 +64,7 @@ BEng (Hons) Computing (First Class) - Edinburgh Napier University
 
 ## Hobbies & Interests
 ---
-I have a very keen interest in music. Most of my time outside work and university is spent listening to, learning about, or playing music with my friends. I’ve been playing guitar for 12 years and listening to music from a very young age. 
+I have a very keen interest in music. Most of my time outside work and university is spent listening to, learning about, or playing music with my friends. I’ve been playing guitar since I was 9 years of age and enjoying music my entire life. 
 
 ## References
 ---
