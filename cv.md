@@ -32,7 +32,7 @@ For contact details, click [here](/about).
 ## Notable Projects
 ---
 ### International Group Project (China, 2015)
-I was interviewed and selected to be part of an international exchange group consisting of 6 Napier students and 8 students from [Zhengzhou University of Light Industry](en.zzuli.edu.cn), China. 
+I was interviewed and selected to be part of an international exchange group consisting of 6 Napier students and 8 students from [Zhengzhou University of Light Industry](http://en.zzuli.edu.cn/), China. 
 
 The group built an online classroom booking system called StudyWithMe with which students could compose or join 'study groups' and book classrooms in their university. My role was developing on both client and server, implementing functions such as notifications and a background management system for data analysis.
 
