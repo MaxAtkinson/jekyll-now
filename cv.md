@@ -45,20 +45,17 @@ Frameworks/libraries used include Bootstrap, jQuery, Google Charts and PHP SLIM.
 ### Bachelor's Degree (Sept '12 - May '16)
 BEng (Hons) Computing (First Class) - Edinburgh Napier University
 
-*Received the university medal (highest average mark) for my course upon graduation*
+*Received the university medal (highest average mark) for my course upon graduation.*
 
 - Year 1 average: `73.5%`
 - Year 2 average: `77.2%`
 - Year 3 average: `77.7%`
 - Year 4 average: `72.5%`
 
-#### Modules contributing to degree classification:
-##### 3rd year:
+##### Modules contributing to degree classification:
 - Advanced Database Systems – `81%`
 - Advanced Web Technologies – `86%`
 - Fundamentals of Parallel Systems – `91%`
-
-##### 4th year:
 - Data Analytics – `77.5%`
 - Software Architecture – `74.6%`
 - Distributed Services and Applications – `82.5%`
@@ -69,3 +66,6 @@ BEng (Hons) Computing (First Class) - Edinburgh Napier University
 ---
 I have a very keen interest in music. Most of my time outside work and university is spent listening to, learning about, or playing music with my friends. I’ve been playing guitar for 12 years and listening to music from a very young age. 
 
+## References
+---
+Available upon request.
