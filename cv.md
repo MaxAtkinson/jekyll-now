@@ -7,25 +7,27 @@ permalink: /cv/
 ## Personal Profile
 ---
 I am a motivated, reliable individual who graduated with a first-class honours degree in computer science from Edinburgh Napier University in July, 2016. I have a strong technical ability and I am a confident presenter. During university, I successfully combined my studies with a job as a classroom assistant, requiring both technical knowledge and great communication skills. During summer breaks, I was always involved in projects and internships and also took time to improve upon and learn new relevant technologies.
+
 For contact details, click [here](/about).
 
 ## Technical Skills
 ---
-- ##### Full-Stack Web Development
-- ##### React/React Native
-- ##### Node.js
-- ##### Version Control Workflow (Git)
-- ##### Unit Testing
-- ##### Python
-- ##### Databases (SQL and non-relational variants)
-- ##### Bash
+- Full-Stack Web Development
+- React/React Native
+- Node.js
+- C# .NET Entity Framework
+- Version Control Workflow (Git)
+- Unit Testing
+- Python
+- Databases (SQL and non-relational variants)
+- Bash
 
 ## Relevant Experience
 ---
 - ##### Software Developer @ [Managed Response Marketing](mrmbrand.com) (Oct '16 - Present)
 - ##### Research Intern @ [Edinburgh Napier University](napier.ac.uk) (May '16 - Jul '16)
 - ##### Student Demonstrator @ [Edinburgh Napier University](napier.ac.uk) (Sept '15 - May '16)
-- ##### Intern Software Engineer (Data) @ [Fanduel](fanduel.com) (Jul '15 - Sept '15)
+- ##### Intern Software Engineer (Data) @ [FanDuel](fanduel.com) (Jul '15 - Sept '15)
 
 ## Notable Projects
 ---
@@ -42,6 +44,7 @@ Frameworks/libraries used include Bootstrap, jQuery, Google Charts and PHP SLIM.
 ---
 ### Bachelor's Degree
 BEng (Hons) Computing (First Class) from Edinburgh Napier University (Sept '12 - May '16):
+
 *Was awarded the university medal for my course upon graduation*
 
 - Year 1 average: `73.5%`
@@ -49,7 +52,7 @@ BEng (Hons) Computing (First Class) from Edinburgh Napier University (Sept '12 -
 - Year 3 average: `77.7%`
 - Year 4 average: `72.5%`
 
-### Modules contributing to degree classification:
+#### Modules contributing to degree classification:
 ##### 3rd year:
 - Advanced Database Systems – `81%`
 - Advanced Web Technologies – `86%`
