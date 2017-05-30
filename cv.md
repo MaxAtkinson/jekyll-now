@@ -32,20 +32,20 @@ For contact details, click [here](/about).
 ## Notable Projects
 ---
 ### International Group Project (China, 2015)
-I was interviewed and selected to be part of an international exchange group consisting of 6 Napier students and 8 students from Zhengzhou University of Light Industry, China. 
+I was interviewed and selected to be part of an international exchange group consisting of 6 Napier students and 8 students from [Zhengzhou University of Light Industry](en.zzuli.edu.cn), China. 
 
 The group built an online classroom booking system called StudyWithMe with which students could compose or join 'study groups' and book classrooms in their university. My role was developing on both client and server, implementing functions such as notifications and a background management system for data analysis.
 
 The application idea came from the students at Zhengzhou who have trouble finding rooms to study in with the massive amount of students at the university.
 
-Frameworks/libraries used include Bootstrap, jQuery, Google Charts and PHP SLIM.
+Frameworks & libraries used include Bootstrap, jQuery, Google Charts and PHP SLIM.
 
 ## Education
 ---
 ### Bachelor's Degree (Sept '12 - May '16)
 BEng (Hons) Computing (First Class) - Edinburgh Napier University
 
-*Received the university medal (highest average mark) for my course upon graduation.*
+*Received the university medal (for highest average mark) for my course upon graduation.*
 
 - Year 1 average: `73.5%`
 - Year 2 average: `77.2%`
