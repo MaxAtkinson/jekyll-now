@@ -2,14 +2,25 @@
   "2017": [
     {
       "act": {
-        "name": "",
-        "url": ""
+        "name": "Conor Oberst",
+        "url": "http://www.conoroberst.com/"
       },
       "venue": {
-        "name": "",
-        "url": ""
+        "name": "O2 ABC, Glasgow",
+        "url": "https://www.academymusicgroup.com/o2abcglasgow/"
       },
-      "date": ""
+      "date": "2017-08-22"
+    },
+    {
+      "act": {
+        "name": "Turnover",
+        "url": "http://www.turnovermusic.net/"
+      },
+      "venue": {
+        "name": "Stereo, Glasgow",
+        "url": "https://www.stereocafebar.com/"
+      },
+      "date": "2017-09-26"
     }
   ],
   "2016": [
