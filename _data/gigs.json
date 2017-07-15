@@ -2,6 +2,18 @@
   "2017": [
     {
       "act": {
+        "name": "Trnsmt Festival",
+        "url": "http://trnsmtfest.com/"
+      },
+      "venue": {
+        "name": "Glasgow Green, Glasgow",
+        "url": "https://www.google.co.uk/maps/place/Glasgow+Green/@55.8479565,-4.2429024,14.44z/data=!4m5!3m4!1s0x488846a37a817f3b:0x4822cab96021be31!8m2!3d55.8487031!4d-4.2350712"
+      },
+      "date": "2017-07-09",
+      "description": "Appearances by The View, Blossoms, Two Door Cinema Club, The 1975, Biffy Clyro"
+    },
+    {
+      "act": {
         "name": "Conor Oberst",
         "url": "http://www.conoroberst.com/"
       },
@@ -9,7 +21,8 @@
         "name": "O2 ABC, Glasgow",
         "url": "https://www.academymusicgroup.com/o2abcglasgow/"
       },
-      "date": "2017-08-22"
+      "date": "2017-08-22",
+      "description": ""
     },
     {
       "act": {
@@ -20,33 +33,96 @@
         "name": "Stereo, Glasgow",
         "url": "https://www.stereocafebar.com/"
       },
-      "date": "2017-09-26"
+      "date": "2017-09-26",
+      "description": ""
     }
   ],
   "2016": [
     {
       "act": {
-        "name": "",
-        "url": ""
+        "name": "Twenty One Pilots",
+        "url": "http://www.twentyonepilots.com/"
       },
       "venue": {
-        "name": "",
-        "url": ""
+        "name": "Barrowland Ballroom, Glasgow",
+        "url": "http://www.glasgow-barrowland.com/ballroom.htm"
       },
-      "date": ""
+      "date": "2016-02-20",
+      "description": ""
     }
   ],
   "2015": [
     {
       "act": {
-        "name": "",
-        "url": ""
+        "name": "alt-J",
+        "url": "http://www.altjband.com/"
       },
       "venue": {
-        "name": "",
-        "url": ""
+        "name": "SSE Hydro, Glasgow",
+        "url": "https://www.thessehydro.com/"
       },
-      "date": ""
+      "date": "2015-12-07",
+      "description": ""
+    },
+    {
+      "act": {
+        "name": "Don Broco",
+        "url": "https://www.donbroco.com/"
+      },
+      "venue": {
+        "name": "Liquid Room, Edinburgh",
+        "url": "http://www.liquidroom.com/"
+      },
+      "date": "2015-12-06",
+      "description": ""
+    },
+    {
+      "act": {
+        "name": "Bring Me The Horizon",
+        "url": "http://www.bmthofficial.com/"
+      },
+      "venue": {
+        "name": "Corn Exchange, Edinburgh",
+        "url": "http://www.edinburghcornexchange.com/"
+      },
+      "date": "2015-11-25",
+      "description": ""
+    },
+    {
+      "act": {
+        "name": "Fightstar",
+        "url": "http://www.bmthofficial.com/"
+      },
+      "venue": {
+        "name": "Liquid Room, Edinburgh",
+        "url": "http://www.liquidroom.com/"
+      },
+      "date": "2015-10-27",
+      "description": ""
+    },
+    {
+      "act": {
+        "name": "Death Cab For Cutie",
+        "url": "http://deathcabforcutie.com/"
+      },
+      "venue": {
+        "name": "O2 Academy, Glasgow",
+        "url": "https://www.academymusicgroup.com/o2academyglasgow/"
+      },
+      "date": "2015-11-02",
+      "description": ""
+    },
+    {
+      "act": {
+        "name": "The Cribs",
+        "url": "https://www.thecribs.com/"
+      },
+      "venue": {
+        "name": "Barrowland Ballroom, Glasgow",
+        "url": "http://www.glasgow-barrowland.com/ballroom.htm"
+      },
+      "date": "2015-10-20",
+      "description": ""
     }
   ],
   "2014": [
@@ -65,14 +141,15 @@
   "2013": [
     {
       "act": {
-        "name": "",
-        "url": ""
+        "name": "Wiz Khalifa",
+        "url": "http://www.wizkhalifa.com/"
       },
       "venue": {
-        "name": "",
-        "url": ""
+        "name": "O2 Academy, Glasgow",
+        "url": "https://www.academymusicgroup.com/o2academyglasgow/"
       },
-      "date": ""
+      "date": "2013-09-25",
+      "description": ""
     }
   ],
   "2012": [
@@ -156,14 +233,15 @@
   "2006": [
     {
       "act": {
-        "name": "",
-        "url": ""
+        "name": "The Raconteurs",
+        "url": "https://thirdmanrecords.com/about/artists/the-raconteurs/"
       },
       "venue": {
-        "name": "",
-        "url": ""
+        "name": "Corn Exchange, Edinburgh",
+        "url": "http://www.edinburghcornexchange.com/"
       },
-      "date": ""
+      "date": "2006-08-23",
+      "description": ""
     }
   ],
   "2005": [
