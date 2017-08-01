@@ -1,4 +1,8 @@
 
+.site-name {
+  font-weight: bold;
+}
+
 .site-name span {
   color: #de3e94
 }
