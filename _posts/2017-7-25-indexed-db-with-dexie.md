@@ -3,7 +3,7 @@ layout: post
 title: 'IndexedDB made easy with Dexie.js'
 categories: [tech]
 date: 2017-7-25
-published: true
+published: false
 ---
 
 With the rise of single-page applications on the web, specifically using [React.js]() and the requirement for more application state than ever, a new challenge has arisen: how do we persist state once it becomes too big for the browser's simplistic [localStorage]()?
