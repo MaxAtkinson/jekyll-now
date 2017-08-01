@@ -5,7 +5,7 @@ permalink: /about/
 jump_links: ['2005', '2010', '2015']
 ---
 
-I'm a 22-year-old software developer, born and raised in Edinburgh. Currently working as a full-stack (ReactJS/C&#35; Entity Framework) developer at Managed Response Marketing.
+I'm a 22-year-old software developer, born and raised in Edinburgh. Currently working as a full-stack (ReactJS/C&#35; Entity Framework) developer at [Managed Response Marketing](http://mrmbrand.com).
 
 This site was created using [Jekyll](https://jekyllrb.com) and the source code can be found on [my github page](https://github.com/maxatkinson/maxatkinson.github.io).
 
