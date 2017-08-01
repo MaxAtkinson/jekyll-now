@@ -8,7 +8,7 @@ description: '{Software Developer & Musician from Edinburgh}'
 site_title: Max Atkinson
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/20429741_1899804090273646_3830511431637457615_n.jpg?oh=971c7b520e6467aae0cfa8e34e8b1a4f&oe=5A345646
+avatar: /assets/img/avatar.png
 
 #
 # Flags below are optional
