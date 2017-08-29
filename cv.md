@@ -32,7 +32,7 @@ For contact details, click [here](/about).
 ## Notable Projects
 ---
 ### International Group Project (China, 2015)
-I was interviewed and selected to be part of an international exchange group consisting of 6 Napier students and 8 students from [Zhengzhou University of Light Industry](http://en.zzuli.edu.cn/), China. 
+I was interviewed and selected to be part of an international exchange group consisting of 6 Napier students and 8 students from [Zhengzhou University of Light Industry](http://en.zzuli.edu.cn/), China.
 
 The group built an online classroom booking system called StudyWithMe with which students could compose or join 'study groups' and book classrooms in their university. My role was developing on both client and server, implementing functions such as notifications and a background management system for data analysis.
 
@@ -43,7 +43,7 @@ Frameworks & libraries used include Bootstrap, jQuery, Google Charts and PHP SLI
 ## Education
 ---
 ### Bachelor's Degree (Sept '12 - May '16)
-BEng (Hons) Computing (First Class) - [Edinburgh Napier University](http://napier.ac.uk)
+BEng (Hons) Computing (First Class), [Edinburgh Napier University](http://napier.ac.uk)
 
 *Received the university medal (for highest average mark) for my course upon graduation.*
 
@@ -64,7 +64,7 @@ BEng (Hons) Computing (First Class) - [Edinburgh Napier University](http://napie
 
 ## Hobbies & Interests
 ---
-I have a very keen interest in music. Most of my time outside work and university is spent listening to, learning about, or playing music with my friends. I’ve been playing guitar since I was 9 years of age and enjoying music my entire life. 
+I have a very keen interest in music. Most of my time outside work and university is spent listening to, learning about, or playing music with my friends. I’ve been playing guitar since I was 9 years of age and enjoying music my entire life.
 
 ## References
 ---
